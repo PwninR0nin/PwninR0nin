@@ -1,9 +1,9 @@
 <!-- Cyberpunk Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PwninR0nin/PwninR0nin/main/banner.png" alt="Pwnin R0nin Banner" width="100%" />
+  <img src="banner.png" alt="Pwnin R0nin Banner" width="100%" />
 </p>
 
-<h1 align="center">⚔️ Oscar Hernandez (Pwnin R0nin) 🕶️</h1>
+<h1 align="center">⚔️ Oscar Hernandez (Pwnin R0nin) 👹</h1>
 
 <p align="center">
   🛡️ Security Engineer & Researcher | 🕵️ Reverse Engineer | 🧙 Bash Sorcerer | 🐍 Python Whisperer
@@ -30,7 +30,7 @@
 ![C++](https://img.shields.io/badge/C++-1f1f1f?style=flat&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/ASM-1f1f1f?style=flat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-1f1f1f?style=flat&logo=linux)
-![Ghidra](https://img.shields.io/badge/Ghidra-1f1f1f?style=flat&logo=https%3A%2F%2Fraw.githubusercontent.com%2FNationalSecurityAgency%2Fghidra%2Fmaster%2FGhidraDocs%2FGhidraClass%2FAdvanced%2Fsrc%2FghidraRight%2Epng)
+![Ghidra](https://img.shields.io/badge/Ghidra-1f1f1f?style=flat&logo=ghidra)
 ![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=flat&logo=docker)
 
 ---
